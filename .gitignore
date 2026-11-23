@@ -1,0 +1,11 @@
+fitlog*.db
+workouts*.csv
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.streamlit/*.txt
+project_data/*.csv
+.venv/
+venv/
+.env
+*.log
